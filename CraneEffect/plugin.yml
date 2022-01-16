@@ -1,0 +1,5 @@
+name: CraneEffect
+main: wax\CraneEffect\Main
+version: 1.0.0-beta
+author: wax_dev
+api: 4.0.0
